@@ -1,4 +1,4 @@
-@import "bootstrap";
+@import url('bootstrap.css') screen;
 
 html {
 	overflow-y: scroll;
